@@ -5,7 +5,6 @@ on:
   workflow_dispatch:
 permissions:
   contents: read
-  copilot-requests: write
 safe-outputs:
   create-issue:
     max: 1
