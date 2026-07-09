@@ -19,13 +19,4 @@ include the title, the author, and how long it has been open. Start
 with a one-paragraph summary of the overall state of the repo.
 Title the issue "Daily Digest – <date>".
 
-## Instructions
-
-Replace this section with specific instructions for the AI. For example:
-
-1. Read the issue description and comments
-2. Analyze the request and gather relevant information
-3. Provide a helpful response or take appropriate action
-
-Be clear and specific about what the AI should accomplish.
 
