@@ -1,7 +1,6 @@
 ---
 name: Daily Digest
 on:
-  schedule: daily on weekdays
   workflow_dispatch:
 permissions:
   contents: read
